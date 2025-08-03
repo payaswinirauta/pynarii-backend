@@ -73,7 +73,7 @@ GET	/products/	Get all product data
 🌐 Live Frontend Link
 Pynarii is a full stack smart shopping app, and this backend powers the dynamic product logic.
 
-👉 🌐 Visit Live Frontend Website – Fully integrated with this API.
+👉 🌐 Visit Live Frontend Website(https://payaswinirauta.github.io/pynarii/) – Fully integrated with this API.
 
 🛣️ Future Roadmap
  Add category-wise filtering
@@ -108,12 +108,4 @@ Licensed under the MIT License
 Pull requests and issues are welcome!
 Let’s build a smarter e-commerce backend together 🛍️
 
-<p align="center"> <img src="https://img.shields.io/github/stars/payaswinirauta/pynarii-backend?style=social" /> </p> ```
 
-
-
-
-
-
-
-ChatGPT can make mistakes. Check important in
