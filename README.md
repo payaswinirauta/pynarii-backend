@@ -18,14 +18,13 @@
 
 ## 📂 Project Structure
 
+```text
 pynarii-backend/
 ├── main.py # FastAPI main app & route setup
 ├── products.py # CRUD & logic layer
 ├── products.json # Sample product database (mock)
 └── pycache/ # Python bytecode (ignored)
 
-yaml
-Copy code
 
 ---
 
