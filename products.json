@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Smartwatch",
+    "price": 1999,
+    "category": "gadgets",
+    "image": "assets/images/smartwatch.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Wireless Headphones",
+    "price": 2499,
+    "category": "gadgets",
+    "image": "assets/images/headphones.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Red Casual Shirt",
+    "price": 999,
+    "category": "fashion",
+    "image": "assets/images/red-shirt.jpg"
+  }
+]
