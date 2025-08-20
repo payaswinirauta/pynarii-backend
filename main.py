@@ -25,3 +25,8 @@ products = [
 @app.get("/products/")
 async def get_products():
     return products
+
+
+@app.get("/")
+async def read_root():
+    return {"message": "Pynarii Backend is running successfully!"}
